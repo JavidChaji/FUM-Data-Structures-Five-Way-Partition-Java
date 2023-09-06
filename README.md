@@ -26,9 +26,9 @@ Ferdowsi University of Mashhad Data Structures Five Way Partition Java
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Structures-Five-Way-Partition-Java/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Structures-Five-Way-Partition-Java.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Data-Structures-Five-Way-Partition-Java/network/members
 
 
 <!-- Stars -->
